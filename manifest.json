@@ -1,0 +1,23 @@
+
+{
+  "short_name": "Tutor ICT",
+  "name": "Tutor PWA para Reglamento ICT",
+  "description": "Una aplicación web progresiva para estudiar y prepararse para el examen del Reglamento de Infraestructuras Comunes de Telecomunicaciones (ICT) de España, utilizando la API de Gemini para una tutoría interactiva.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#4f46e5"
+}

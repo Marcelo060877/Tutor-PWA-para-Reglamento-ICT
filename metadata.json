@@ -1,0 +1,5 @@
+{
+  "name": "Tutor PWA para Reglamento ICT",
+  "description": "Una aplicación web progresiva para estudiar y prepararse para el examen del Reglamento de Infraestructuras Comunes de Telecomunicaciones (ICT) de España, utilizando la API de Gemini para una tutoría interactiva.",
+  "requestFramePermissions": []
+}
